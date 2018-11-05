@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1446667744 source:g:\clang\llistex\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1540339046 source:g:\clang\llistex\mod_impl.c
+	"modify.h"
+
+1540339046 g:\clang\llistex\modify.h
+	"def.h"
+
+1540339046 g:\clang\llistex\def.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1540339244 source:g:\clang\llistex\ac_impl.c
+	"access.h"
+
+1540339154 g:\clang\llistex\access.h
+	"def.h"
+
+1540339443 source:g:\clang\llistex\test_impl.c
+	"test.h"
+
+1540339349 g:\clang\llistex\test.h
+	"def.h"
+	"modify.h"
+	"access.h"
+
