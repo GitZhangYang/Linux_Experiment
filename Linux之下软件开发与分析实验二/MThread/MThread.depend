@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1541648984 source:g:\clang\mthread\main.c
+	"pthread.h"
+	"tfunc.h"
+	"job.h"
+
+1541648730 source:g:\clang\mthread\data_impl.c
+	"pthreaddef.h"
+
+1541311107 g:\clang\mthread\pthreaddef.h
+	<stdlib.h>
+	<stdio.h>
+
+1541312021 g:\clang\mthread\tfunc.h
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<sys/types.h>
+	"pthreaddef.h"
+
+1541313261 g:\clang\mthread\job.h
+	"tfunc.h"
+
+1541313261 source:g:\clang\mthread\tfunc_impl.c
+	"tfunc.h"
+
+1541648950 source:g:\clang\mthread\job_impl.c
+	"job.h"
+
