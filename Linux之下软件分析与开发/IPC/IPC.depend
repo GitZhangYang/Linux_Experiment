@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1541901739 source:g:\clang\ipc\apipe_impl.c
+	"pipe.h"
+
+1541902008 g:\clang\ipc\pipe.h
+	<unistd.h>
+	<sys/types.h>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+
+1541901326 source:g:\clang\ipc\main.c
+	<stdio.h>
+	<stdlib.h>
+
